@@ -1,7 +1,7 @@
 {
-  "name": "waterline",
+  "name": "waternile",
   "description": "An ORM for Node.js and the Sails framework (Modified for Orient-JS but non-breaking)",
-  "version": "10.14.0-3",
+  "version": "0.14.0-3",
   "homepage": "http://waterlinejs.org",
   "contributors": [
     {
@@ -37,7 +37,7 @@
     "sails",
     "sails.js"
   ],
-  "repository": "git://github.com/balderdashy/waterline.git",
+  "repository": "git://github.com/gaithoben/waternile.git",
   "main": "./lib/waterline",
   "scripts": {
     "test": "nodever=`node -e \"console.log('\\`node -v\\`'[1]);\"` && if [ $nodever != \"0\" ]; then npm run lint; fi && npm run custom-tests",
