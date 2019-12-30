@@ -1,7 +1,7 @@
 {
   "name": "waternile",
   "description": "An ORM for Node.js and the Sails framework (Modified for Orient-JS but non-breaking)",
-  "version": "0.14.0-22",
+  "version": "0.15.0",
   "homepage": "http://waterlinejs.org",
   "contributors": [
     {
